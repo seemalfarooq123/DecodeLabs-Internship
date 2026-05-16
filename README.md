@@ -12,5 +12,18 @@ This chatbot responds to user inputs using predefined rules and dictionary-based
 - Fallback responses
 
 ### How to Run:
-```bash
 python chatbot.py
+
+
+## 🚀 Project 2: Data Classification using AI
+
+This project implements a machine learning classification model using the Iris dataset.
+
+### Features:
+- Data preprocessing and scaling
+- Train-test split
+- KNN classification algorithm
+- Accuracy, confusion matrix, and classification report
+
+### How to Run:
+python project2.py
